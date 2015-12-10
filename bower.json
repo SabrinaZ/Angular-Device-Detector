@@ -1,0 +1,25 @@
+{
+  "name": "Angular-Device-Detector",
+  "version":"0.0.1",
+  "homepage": "https://github.com/SabrinaZ/Angular-Device-Detector",
+  "authors": [
+    "SabrinaZ"
+  ],
+  "description": "a angular service/directive for device detection",
+  "main": "device_detector.js",
+  "moduleType": [],
+  "keywords": [
+    "angular",
+    "device",
+    "detector"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
